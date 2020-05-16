@@ -19,7 +19,8 @@ Afterwards enter the following command to build and install tabbed
 Patches && Features
 -------------------
 	- Client number
-	- Hide/unhide tabbed (`ctrl+comma/period`)
+	- Hide/unhide tabbed (`ctrl+shift`)
+	- Key Release
 
 Running tabbed
 --------------
